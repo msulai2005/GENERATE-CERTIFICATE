@@ -1,0 +1,51 @@
+EmployeeID,Name,email,Date,Status,start_date,end_date
+123456,Kamaldeen,dheenkamal681@gmail.com,2024-05-01,Present,2024-05-01,2024-05-10
+765543,Mohamed Assad,assadmohamed2005@gmail.com,2024-05-01,Absent,2024-05-01,2024-05-10
+652656,Sulaiman,sulaimansulaiman15795@gmail.com,2024-05-01,Present,2024-05-01,2024-05-10
+565656,Areef,areefdeen06@gmail.com,2024-05-01,Absent,2024-05-01,2024-05-10
+223344,thaha,areefdeen06@gmail.com,2024-05-01,Absent,2024-05-01,2024-05-10
+123456,Kamaldeen,dheenkamal681@gmail.com,2024-05-02,Present,2024-05-01,2024-05-10
+765543,Mohamed Assad,assadmohamed2005@gmail.com,2024-05-02,Absent,2024-05-01,2024-05-10
+652656,Sulaiman,sulaimansulaiman15795@gmail.com,2024-05-02,Present,2024-05-01,2024-05-10
+565656,Areef,areefdeen06@gmail.com,2024-05-02,Absent,2024-05-01,2024-05-10
+223344,thaha,areefdeen06@gmail.com,2024-05-02,Absent,2024-05-01,2024-05-10
+123456,Kamaldeen,dheenkamal681@gmail.com,2024-05-03,Absent,2024-05-01,2024-05-10
+765543,Mohamed Assad,assadmohamed2005@gmail.com,2024-05-03,Absent,2024-05-01,2024-05-10
+652656,Sulaiman,sulaimansulaiman15795@gmail.com,2024-05-03,Present,2024-05-01,2024-05-10
+565656,Areef,areefdeen06@gmail.com,2024-05-03,Present,2024-05-01,2024-05-10
+223344,thaha,areefdeen06@gmail.com,2024-05-03,Present,2024-05-01,2024-05-10
+123456,Kamaldeen,dheenkamal681@gmail.com,2024-05-04,Present,2024-05-01,2024-05-10
+765543,Mohamed Assad,assadmohamed2005@gmail.com,2024-05-04,Present,2024-05-01,2024-05-10
+652656,Sulaiman,sulaimansulaiman15795@gmail.com,2024-05-04,Present,2024-05-01,2024-05-10
+565656,Areef,areefdeen06@gmail.com,2024-05-04,Present,2024-05-01,2024-05-10
+223344,thaha,areefdeen06@gmail.com,2024-05-04,Present,2024-05-01,2024-05-10
+123456,Kamaldeen,dheenkamal681@gmail.com,2024-05-05,Absent,2024-05-01,2024-05-10
+765543,Mohamed Assad,assadmohamed2005@gmail.com,2024-05-05,Present,2024-05-01,2024-05-10
+652656,Sulaiman,sulaimansulaiman15795@gmail.com,2024-05-05,Present,2024-05-01,2024-05-10
+565656,Areef,areefdeen06@gmail.com,2024-05-05,Present,2024-05-01,2024-05-10
+223344,thaha,areefdeen06@gmail.com,2024-05-05,Present,2024-05-01,2024-05-10
+123456,Kamaldeen,dheenkamal681@gmail.com,2024-05-06,Present,2024-05-01,2024-05-10
+765543,Mohamed Assad,assadmohamed2005@gmail.com,2024-05-06,Present,2024-05-01,2024-05-10
+652656,Sulaiman,sulaimansulaiman15795@gmail.com,2024-05-06,Present,2024-05-01,2024-05-10
+565656,Areef,areefdeen06@gmail.com,2024-05-06,Present,2024-05-01,2024-05-10
+223344,thaha,areefdeen06@gmail.com,2024-05-06,Present,2024-05-01,2024-05-10
+123456,Kamaldeen,dheenkamal681@gmail.com,2024-05-07,Present,2024-05-01,2024-05-10
+765543,Mohamed Assad,assadmohamed2005@gmail.com,2024-05-07,Absent,2024-05-01,2024-05-10
+652656,Sulaiman,sulaimansulaiman15795@gmail.com,2024-05-07,Present,2024-05-01,2024-05-10
+565656,Areef,areefdeen06@gmail.com,2024-05-07,Present,2024-05-01,2024-05-10
+223344,thaha,areefdeen06@gmail.com,2024-05-07,Present,2024-05-01,2024-05-10
+123456,Kamaldeen,dheenkamal681@gmail.com,2024-05-08,Present,2024-05-01,2024-05-10
+765543,Mohamed Assad,assadmohamed2005@gmail.com,2024-05-08,Absent,2024-05-01,2024-05-10
+652656,Sulaiman,sulaimansulaiman15795@gmail.com,2024-05-08,Present,2024-05-01,2024-05-10
+565656,Areef,areefdeen06@gmail.com,2024-05-08,Present,2024-05-01,2024-05-10
+223344,thaha,areefdeen06@gmail.com,2024-05-08,Present,2024-05-01,2024-05-10
+123456,Kamaldeen,dheenkamal681@gmail.com,2024-05-09,Absent,2024-05-01,2024-05-10
+765543,Mohamed Assad,assadmohamed2005@gmail.com,2024-05-09,Present,2024-05-01,2024-05-10
+652656,Sulaiman,sulaimansulaiman15795@gmail.com,2024-05-09,Present,2024-05-01,2024-05-10
+565656,Areef,areefdeen06@gmail.com,2024-05-09,Present,2024-05-01,2024-05-10
+223344,thaha,areefdeen06@gmail.com,2024-05-09,Present,2024-05-01,2024-05-10
+123456,Kamaldeen,dheenkamal681@gmail.com,2024-05-10,Present,2024-05-01,2024-05-10
+765543,Mohamed Assad,assadmohamed2005@gmail.com,2024-05-10,Present,2024-05-01,2024-05-10
+652656,Sulaiman,sulaimansulaiman15795@gmail.com,2024-05-10,Present,2024-05-01,2024-05-10
+565656,Areef,areefdeen06@gmail.com,2024-05-10,Present,2024-05-01,2024-05-10
+223344,thaha,areefdeen06@gmail.com,2024-05-10,Present,2024-05-01,2024-05-10
